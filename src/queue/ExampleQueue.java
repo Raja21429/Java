@@ -12,8 +12,8 @@ public class ExampleQueue {
 		que.offer(30);
 		que.offer(40);
 		System.out.println(que.poll());
-		System.out.println(que.peek());
-		System.out.println(que.remove(1));
+//		System.out.println(que.peek());
+//		System.out.println(que.remove(1));
 
 	}
 
